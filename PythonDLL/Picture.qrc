@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>lan3.png</file>
+    <file>lan1.png</file>
+    <file>lan2.png</file>
+    <file>600800.png</file>
+    <file>pukontu.ico</file>
+  </qresource>
+</RCC>
